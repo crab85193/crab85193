@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crab85193)](https://github.com/crab85193/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crab85193&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crab85193&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crab85193&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crab85193&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crab85193&theme=github_dark)
