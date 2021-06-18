@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> 
+  <a href="https://github.com/crab85193/crab85193">
+    <img src="https://komarev.com/ghpvc/?username=crab85193" alt="crab85193" />
+  </a>
+  <a href="http://twitter.com/crab85193">
+    <img height="20" src="https://img.shields.io/twitter/follow/crab85193?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/crab85193">
+    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crab85193)](https://github.com/crab85193/github-readme-stats)
