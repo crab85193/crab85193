@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crab85193&theme=dark)](https://github.com/crab85193/github-readme-stats)
 
-！[]（./ profile-3d-contrib / profile-green-animate.svg）
+！[](./ profile-3d-contrib / profile-green-animate.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crab85193&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crab85193&theme=github_dark)
