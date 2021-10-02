@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **crab85193/crab85193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/crab85193/crab85193">
     <img src="https://komarev.com/ghpvc/?username=crab85193" alt="crab85193" />
   </a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crab85193&theme=dark)](https://github.com/crab85193/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crab85193&theme=dark)](https://github.com/crab85193/github-readme-stats) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crab85193&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crab85193&theme=github_dark)
