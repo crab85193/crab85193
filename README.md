@@ -5,7 +5,7 @@
 
 🏫 I'm University student which Information Technology.
 
-📚 I'm currently learning Java.
+📚 I'm currently learning Python.
 
 📫 How to reach me: [Twitter/crab85193](https://www.twitter.com/crab85193)
 
