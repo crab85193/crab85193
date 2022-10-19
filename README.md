@@ -14,4 +14,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crab85193&card_width=500&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crab85193&card_width=300&hide=html)
 
-
+<img src="https://github-chart.vercel.app/api?user=crab85193" width="810px" />
